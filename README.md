@@ -18,7 +18,7 @@ Privacy-first tricycle financing, built on **Cardano + Midnight**. Drivers get e
 | 𝕏 **X (Twitter)** | [@3rike_](https://x.com/3rike_) |
 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/3rike12/3rike-Mobility_) | [3rike12/3rike-Mobility_](https://github.com/3rike12/3rike-Mobility_) |
 | 🛠️ **Product Demo** | [Watch (technical walkthrough)](https://drive.google.com/file/d/1gAZONouUw1dxhkiKIwDzI0HsmumVW2Dk/view?usp=drivesdk) |
-| 🎙️ **Founder Pitch** | [Watch (meet 3riKE)](https://drive.google.com/file/d/11ncwwSbxB7Xx3sxmQuUH2fO7XqgPRzfi/view?usp=drivesdk) |
+| 🎙️ **Founder Pitch** | [Watch (meet 3riKE)](https://drive.google.com/file/d/1N9cDcDALGDDLn-m_PzQFjYowEdpVLCDU/view?usp=drivesdk) |
 | 🛤️ **Tracks** | Builder Pie + Cardano Pie + Feedback Pie |
 
 ---
